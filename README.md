@@ -29,3 +29,5 @@ QQ:1396219808
 Email: chainsx@outlook.com               i@chainsx.cn
 
 ## 下载地址
+
+链接:https://pan.baidu.com/s/1hsEjcOG 密码:lfmx
