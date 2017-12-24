@@ -22,9 +22,10 @@
 
 **************************
 
-求有能力有时间有精力的大神们帮忙一起完善这些项目。
+求有能力有时间有精力的帮忙一起完善这些项目。
 
 QQ:1396219808
-Email: chainsx@outlook.com      i@chainsx.cn
+
+Email: chainsx@outlook.com               i@chainsx.cn
 
 ## 下载地址
