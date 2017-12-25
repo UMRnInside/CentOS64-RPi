@@ -1,6 +1,6 @@
 # rpi-centos-aarch64
 
-## chainsx又一大作
+### [64位ubuntu戳这里](https://github.com/chainsx/ubuntu64-rpi)
 
 ## 前言
 
