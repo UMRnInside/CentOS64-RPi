@@ -30,4 +30,6 @@ Email: chainsx@outlook.com               i@chainsx.cn
 
 ## 下载地址
 
-链接:https://pan.baidu.com/s/1hsEjcOG 密码:lfmx
+百度云:链接:https://pan.baidu.com/s/1hsEjcOG 密码:lfmx
+
+yandex:https://yadi.sk/d/DBf_G4Lj3R6CUv
