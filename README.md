@@ -1,12 +1,12 @@
-# rpi-centos-aarch64
+# rpi-centos-AArch64
 
 ### [64位ubuntu戳这里](https://github.com/chainsx/ubuntu64-rpi)
 
 ## 前言
 
-对于RaspberryPi3而言，centos官方给的支持仅有armhf，而armhf的软件包屈指可数，连桌面都不行（反正我没安装成功过）。
+对于Raspberry Pi 3而言，CentOS官方仅支持armhf，而armhf的软件包屈指可数，甚至没有桌面环境（反正我没安装成功过）。
 
-现在对于aarch64的主流启动方式为UEFI，例如openSUSE，但是我个人能力不够，没办法╮(╯_╰)╭，只好用传统启动方法。
+现在，AArch64系统的主流启动方式为UEFI（参考openSUSE），但是我个人能力不够，没办法╮(╯_╰)╭，只好用传统启动方法。
 
 ## 使用说明
 
@@ -30,6 +30,5 @@ Email: chainsx@outlook.com               i@chainsx.cn
 
 ## 下载地址
 
-百度云:链接:https://pan.baidu.com/s/1hsEjcOG 密码:lfmx
-
-yandex:https://yadi.sk/d/DBf_G4Lj3R6CUv
+百度云:链接:https://pan.baidu.com/s/1pNkNOMn (UMRnInside)
+百度云:链接:https://pan.baidu.com/s/1hsEjcOG (ChainsX) 密码:lfmx
