@@ -16,9 +16,9 @@
 
 ## 关于
 
-内核（kernel）：linux-4.10.y
+内核（kernel）：linux rpi-4.12.y
 
-根目录（rootfs）：官方centos7 aarch64
+根目录（rootfs）：官方 CentOS rootfs 压缩档案
 
 **************************
 
