@@ -16,7 +16,7 @@ echo "Fetching root archive..."
 wget -c -O $BUILD_PATH/$remoteFileName $downloadURL
 
 echo "Extracting archive, please wait..."
-tar -C $ROOT_PATH/ -x -f $BUILD_PATH/$remoteFileName
+tar -C $ROOT_PATH/ -x -p -f $BUILD_PATH/$remoteFileName
 
 # If we are on arm64 or have qemu-aarch64-static
 E_NATIVE=0
