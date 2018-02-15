@@ -1,6 +1,7 @@
-# rpi-centos-AArch64
+# RPi-CentOS-AArch64
 
-### [64位ubuntu戳这里](https://github.com/chainsx/ubuntu64-rpi)
+### [64位Ubuntu戳这里](https://github.com/chainsx/ubuntu64-rpi)
+### [64位Debian构建装置戳这里](https://github.com/UMRnInside/RPi-arm64)
 
 ## 前言
 
@@ -31,4 +32,5 @@ Email: chainsx@outlook.com               i@chainsx.cn
 ## 下载地址
 
 百度云:链接:https://pan.baidu.com/s/1pNkNOMn (UMRnInside)
+
 百度云:链接:https://pan.baidu.com/s/1hsEjcOG (ChainsX) 密码:lfmx
